@@ -18,6 +18,10 @@ This is a modern, feature-rich to-do list application built with React and TypeS
 - **Animations**: Framer Motion
 - **Development**: Create React App
 
+- ## Live Preview
+
+👉 [Try it here](https://advancedtodo-list.netlify.app)
+
 ## How to Run Locally
 
 1. **Clone the repository** (or download the source code).
